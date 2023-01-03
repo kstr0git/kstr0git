@@ -22,7 +22,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
             filename: gh-recentstars.svg
-            token: ${{ secrets.TOKEN }}
+            token: ${{ secrets.METRICS_TOKEN }}
             base: ""
             plugin_stars: yes
             plugin_stars_limit: 3
