@@ -1,1 +1,1 @@
-![Metrics](/metrics.plugin.stars.svg)
+![Metrics](/github-metrics.svg)
