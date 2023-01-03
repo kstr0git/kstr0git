@@ -17,3 +17,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
+          filename: metrics.plugin.stars.svg
+          plugin_stars: yes
+          plugin_stars_limit: 3
